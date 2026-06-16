@@ -8,7 +8,7 @@ INSERT INTO  users(name, password_hash, email)
 VALUES (
         '前田',
         'youkoso',
-        'saitou@gmail.com'
+        'sa@@@@gmail.com'
 
 );
 
